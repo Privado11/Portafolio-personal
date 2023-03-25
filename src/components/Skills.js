@@ -1,3 +1,4 @@
+import "../styles/Skills.css";
 import meter1 from "../assets/img/meter1.svg";
 import meter2 from "../assets/img/meter2.svg";
 import meter3 from "../assets/img/meter3.svg";
@@ -33,7 +34,7 @@ export const Skills = () => {
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Como desarrollador frontend, poseo habilidades en el diseño y desarrollo <br></br> de interfaces de usuario atractivas y funcionales haciendo uso de mis onocimientois en el área.</p>
+                        <p>Como desarrollador frontend, poseo habilidades en el diseño y desarrollo <br></br> de interfaces de usuario atractivas y funcionales haciendo uso de mis conocimientos en el área.</p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />

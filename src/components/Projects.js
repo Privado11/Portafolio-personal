@@ -1,3 +1,4 @@
+import '../styles/Projects.css';
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import encriptador from "../assets/img/Encriptador.png";

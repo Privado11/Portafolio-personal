@@ -1,3 +1,4 @@
+import '../styles/Banner.css';
 import { useState, useEffect } from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import headerImg from "../assets/img/header-img.svg";
@@ -11,7 +12,7 @@ export const Banner = () => {
   const [text, setText] = useState('');
   const [delta, setDelta] = useState(300 - Math.random() * 100);
   const [index, setIndex] = useState(1);
-  const toRotate = [ "Desarrolador Frontend", "Estudiante de ingeniería de Sistemas"];
+  const toRotate = [ "Desarrollador Frontend", "Estudiante de Ingeniería de Sistemas"];
   const period = 2000;
 
   useEffect(() => {
