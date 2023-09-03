@@ -3,6 +3,7 @@ import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
 import { ProjectCard } from "./ProjectCard";
 import encriptador from "../assets/img/Encriptador.png";
 import colorSharp2 from "../assets/img/color-sharp2.png";
+import todoList from '../assets/img/ToDo-List.png'
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -16,14 +17,15 @@ export const Projects = () => {
       link: "https://privado11.github.io/Encriptador-de-textos/",
     },
     {
-      title: "proyecto 2",
-      description: "proyecro 2",
-      imgUrl: encriptador,
+      title: "ToDo List",
+      description: "Un gestor de tarea creado con React.",
+      imgUrl: todoList,
+      link: "https://privado11.github.io/ToDoList/",
     },
     {
       title: "Proyecto 3",
       description: "Proyecto 3",
-      imgUrl: encriptador,
+      imgUrl: todoList,
     },
   ];
 

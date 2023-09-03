@@ -59,7 +59,6 @@ export const Banner = () => {
                 <span className="tagline">Bienvenido a mi portafolio.</span>
                 <h1>{`Hola. Soy Walter Jiménez.`} <span className="txt-rotate" dataPeriod="1000"><span className="wrap">{text}</span></span></h1>
                   <p>Desarrollador Frontend apasionado y estudiante de Ingeniería de Sistemas. Me encanta la tecnología y disfruto creando interfaces atractivas y eficientes que mejoren la experiencia de los usuarios. Estoy disponible para trabajar en proyectos emocionantes y desafiantes, así que no dudes en ponerse en contacto conmigo si tienes alguna pregunta o si estás interesado en trabajar juntos. ¡Gracias por visitar mi sitio web!</p>
-                  <button onClick={() => console.log('connect')}>Contáctame <ArrowRightCircle size={25} /></button>
               </div>}
             </TrackVisibility>
           </Col>
