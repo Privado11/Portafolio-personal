@@ -1,36 +1,36 @@
 {
   "files": {
     "main.css": "/Portafolio-personal/static/css/main.aaad9075.css",
-    "main.js": "/Portafolio-personal/static/js/main.86770c99.js",
+    "main.js": "/Portafolio-personal/static/js/main.034187df.js",
     "static/js/787.0a89034e.chunk.js": "/Portafolio-personal/static/js/787.0a89034e.chunk.js",
     "static/media/color-sharp.png": "/Portafolio-personal/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Portafolio-personal/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/Portafolio-personal/static/media/banner-bg.cc1273af450504afe755.png",
-    "static/media/header-img.svg": "/Portafolio-personal/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/header-img.svg": "/Portafolio-personal/static/media/header-img.400baa4260daac98f2b2b1ccf08761c2.svg",
     "static/media/Encriptador.png": "/Portafolio-personal/static/media/Encriptador.e5cb28822973c0d0937f.png",
     "static/media/CentraNo2-Bold.ttf": "/Portafolio-personal/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/Portafolio-personal/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/Portafolio-personal/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/Portafolio-personal/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/ToDo-List.png": "/Portafolio-personal/static/media/ToDo-List.1923fc357f1f35c0c3a3.png",
-    "static/media/contact-img.svg": "/Portafolio-personal/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/contact-img.svg": "/Portafolio-personal/static/media/contact-img.62aa99e0f3b968b5d1ce9eb047f34fc7.svg",
     "static/media/revicons.eot": "/Portafolio-personal/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/Portafolio-personal/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/Portafolio-personal/static/media/revicons.e8746a624ed098489406.woff",
-    "static/media/meter2.svg": "/Portafolio-personal/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
-    "static/media/meter1.svg": "/Portafolio-personal/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
-    "static/media/meter3.svg": "/Portafolio-personal/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
-    "static/media/instagram.svg": "/Portafolio-personal/static/media/instagram.08b285abb8e118b52637efa5d65c5367.svg",
-    "static/media/logo.svg": "/Portafolio-personal/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/meter2.svg": "/Portafolio-personal/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter1.svg": "/Portafolio-personal/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter3.svg": "/Portafolio-personal/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/instagram.svg": "/Portafolio-personal/static/media/instagram.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/logo.svg": "/Portafolio-personal/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
     "index.html": "/Portafolio-personal/index.html",
-    "static/media/linkedin.svg": "/Portafolio-personal/static/media/linkedin.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/facebook.svg": "/Portafolio-personal/static/media/facebook.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "static/media/linkedin.svg": "/Portafolio-personal/static/media/linkedin.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/facebook.svg": "/Portafolio-personal/static/media/facebook.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
     "main.aaad9075.css.map": "/Portafolio-personal/static/css/main.aaad9075.css.map",
-    "main.86770c99.js.map": "/Portafolio-personal/static/js/main.86770c99.js.map",
+    "main.034187df.js.map": "/Portafolio-personal/static/js/main.034187df.js.map",
     "787.0a89034e.chunk.js.map": "/Portafolio-personal/static/js/787.0a89034e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aaad9075.css",
-    "static/js/main.86770c99.js"
+    "static/js/main.034187df.js"
   ]
 }
